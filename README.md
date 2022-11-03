@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saraanasim
-- 👀 I’m interested in Data Science,Machine Learning and Game Development
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science and Image Processing
+- 👀 I’m interested in emerging Web deb tech like React, Gatsby, Next , Node
+- 🌱 I’m currently a Full Stack web dev.
+- 💞️ I’m looking to collaborate on Web projects and cloud technologies.
 - 📫 You can reach me on saraanofficial@gmail.com
 
 <!---
