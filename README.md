@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saraanasim
-- 👀 I’m interested in emerging Web deb tech like React, Gatsby, Next , Node
+- 👀 I’m interested in emerging Web dev tech like React, Gatsby, Next , Node ,Nest
 - 🌱 I’m currently a Full Stack web dev.
 - 💞️ I’m looking to collaborate on Web projects and cloud technologies.
 - 📫 You can reach me on saraanofficial@gmail.com
