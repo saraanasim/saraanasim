@@ -91,7 +91,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/saraanasim/saraanasim/output/dist/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
 
 ###
