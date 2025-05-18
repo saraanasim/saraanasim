@@ -1,13 +1,3 @@
-<h1 align="center">Hi, I am M. Saraan Asim</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="400" src="https://saraanasim.github.io/portfolio-2023/_next/static/media/profile.f899adba.jpg"  />
-</div>
-
 ###
 
 <br clear="both">
